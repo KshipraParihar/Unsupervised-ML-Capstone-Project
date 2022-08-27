@@ -6,36 +6,36 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 #In this project, you are required to do
 
-Exploratory Data Analysis
+1) Exploratory Data Analysis
 
-Understanding what type content is available in different countries
+2) Understanding what type content is available in different countries
 
-Is Netflix has increasingly focusing on TV rather than movies in recent years.
+3) Is Netflix has increasingly focusing on TV rather than movies in recent years.
 
-Clustering similar content by matching text-based features
+4) Clustering similar content by matching text-based features
 
 #Attribute Information
 
-show_id : Unique ID for every Movie / Tv Show
+1) show_id : Unique ID for every Movie / Tv Show
 
-type : Identifier - A Movie or TV Show
+2) type : Identifier - A Movie or TV Show
 
-title : Title of the Movie / Tv Show
+3) title : Title of the Movie / Tv Show
 
-director : Director of the Movie
+4) director : Director of the Movie
 
-cast : Actors involved in the movie / show
+5) cast : Actors involved in the movie / show
 
-country : Country where the movie / show was produced
+6) country : Country where the movie / show was produced
 
-date_added : Date it was added on Netflix
+7) date_added : Date it was added on Netflix
 
-release_year : Actual Releaseyear of the movie / show
+8) release_year : Actual Releaseyear of the movie / show
 
-rating : TV Rating of the movie / show
+9) rating : TV Rating of the movie / show
 
-duration : Total Duration - in minutes or number of seasons
+10) duration : Total Duration - in minutes or number of seasons
 
-listed_in : Genere
+11) listed_in : Genere
 
-description: The Summary description
+12) description: The Summary description
